@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.a9cdc70d.chunk.css",
-    "main.js": "/static/js/main.b65f6028.chunk.js",
-    "main.js.map": "/static/js/main.b65f6028.chunk.js.map",
+    "main.js": "/static/js/main.eefd6ebf.chunk.js",
+    "main.js.map": "/static/js/main.eefd6ebf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.54478d9d.js",
     "runtime-main.js.map": "/static/js/runtime-main.54478d9d.js.map",
     "static/js/2.099c04a1.chunk.js": "/static/js/2.099c04a1.chunk.js",
     "static/js/2.099c04a1.chunk.js.map": "/static/js/2.099c04a1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f3dfbacc72c5cebbc57b880cbf18899b.js": "/precache-manifest.f3dfbacc72c5cebbc57b880cbf18899b.js",
+    "precache-manifest.b8e7d067017aeba5aaecc475ecb4778d.js": "/precache-manifest.b8e7d067017aeba5aaecc475ecb4778d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a9cdc70d.chunk.css.map": "/static/css/main.a9cdc70d.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
@@ -47,6 +46,7 @@
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
+    "static/media/suyash.jpeg": "/static/media/suyash.e6358135.jpeg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/static/media/tiktok_logo.0993e324.png",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.54478d9d.js",
     "static/js/2.099c04a1.chunk.js",
     "static/css/main.a9cdc70d.chunk.css",
-    "static/js/main.b65f6028.chunk.js"
+    "static/js/main.eefd6ebf.chunk.js"
   ]
 }
